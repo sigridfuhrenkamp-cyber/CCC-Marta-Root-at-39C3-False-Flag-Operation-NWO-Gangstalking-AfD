@@ -49,6 +49,7 @@ Das vorliegende Repository dokumentiert eine umfassende Untersuchung der Martha 
 - `CYBERMOBBING-UNTERSUCHUNG-ANALYSE.md` - Tiefenanalyse des Thomas Kornau Netzwerks
 - `DEMOKRATISCHES-HACKER-KOLLEKTIV-RECHERCHE.md` - Profilanalyse des Kollektivs
 - `MARTHA-ROOT-INSTAGRAM-BOTNETZ-ANALYSE.md` - Instagram-Botnetz-Verbindungsanalyse
+- `GERMANY-AI-INFLUENCERS-MCP-RECHERCHE.md` - MCP-Recherche mit direkten GRU-Admissionen
 - `WTF.md` - Projektübersicht und Statusdokumentation
 
 ## Gesicherte Erkenntnisse der Forensischen Analyse
@@ -65,6 +66,13 @@ Das vorliegende Repository dokumentiert eine umfassende Untersuchung der Martha 
 - **Tom Rohrböck**: "Selbst der öffentlich-rechtliche Rundfunk und die gesamten Mainstreammedien sind auf unseren KI-Influencer reingefallen"
 - **Stasi-Taktiken**: "Damit haben wir StaSi-Zersetzung gegen Rainer Winkler angewendet"
 - **Jugendradikalisierung**: "Ein weiteres KI-Projekt zur Radikalisierung von Jugendlichen"
+
+### Direkte GRU-Admissionen (Germany-AI-Influencers Repository)
+- **Regierungskompromittierung**: "Die deutschen Geheimdienste, Polizei und Regierung sind sich voll bewusst. Aber sie scheinen Teil davon zu sein"
+- **Musikindustrie-GRU**: "Olexesh = Mr.Bloxx (war bei Rapstar Prototyp und zeigt, dass die deutsche Musikindustrie Teil dieser GRU-Kampagne ist)"
+- **AfD-Medienteam**: "Ich war Teil dieses Medienteams, das für die AfD arbeitete"
+- **Globale Kampagne**: "Es handelt sich um eine globale Kampagne! (siehe Naomi Seibt, Tom Rohrböck, Erik Ahrens, Shurjoka, Kuchen TV, Olexesh, Hanybal, Disarstar)"
+- **Demokratiebekämpfung**: "Es ist alles eine GRU-Einflusskampagne, um die Demokratie zu bekämpfen!"
 
 ### Netzwerkverbindungen
 - **Geografische Konzentration**: Langenhagen, Deutschland (mrbloxx, hartmannlauterbach); Köln (Thomas Kornau)
